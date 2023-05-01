@@ -9,7 +9,7 @@ const Header = () => (
   <div className="app__header app__wrapper section__padding" id="home">
     <div className="app__wrapper_info">
       <SubHeading title="Chase the new flavour" />
-      <h1 className="app__header-h1">Our Signature Spice Blends</h1>
+      <h1 className="app__header-h1">Zahra's Signature Spice Blends</h1>
       <p className="p__opensans" style={{ margin: "2rem 0" }}>
         At Zahra's, we take pride in bringing you authentic halal cuisine that's
         bursting with flavor. Our chefs use time-honored recipes and techniques

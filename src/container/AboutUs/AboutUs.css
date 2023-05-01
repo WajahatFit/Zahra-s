@@ -67,8 +67,7 @@
   }
 }
 @media screen and (max-width: 650px) {
-  .app__aboutus-overlay img {
-    width: 80%;
-    height: 320px;
+  .app__aboutus-letter {
+    font-size: 580px;
   }
 }
