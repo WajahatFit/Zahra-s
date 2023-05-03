@@ -71,3 +71,9 @@
     font-size: 580px;
   }
 }
+
+@media screen and (max-width: 340px) {
+  .app__aboutus-letter {
+    font-size: 250px;
+  }
+}

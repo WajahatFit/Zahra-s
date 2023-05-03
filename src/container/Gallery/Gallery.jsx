@@ -8,10 +8,20 @@ import { SubHeading } from "../../components";
 import { images } from "../../constants";
 import "./Gallery.css";
 const galleryImages = [
-  images.gallery01,
-  images.gallery02,
-  images.gallery03,
-  images.gallery04,
+  images.biryani,
+  images.charsi,
+  images.gajreela,
+  images.kebab,
+  images.salan,
+  images.trifle,
+  images.burger,
+  images.butterChicken,
+  images.halwa,
+  images.karahiS,
+  images.chikenTikka,
+  images.kheer,
+  images.pizza,
+  images.swaian,
 ];
 const Gallery = () => {
   const scrollRef = React.useRef(null);
