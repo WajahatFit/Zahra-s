@@ -1,56 +1,61 @@
 const starters = [
   {
-    title: "Chapel Hill Shiraz",
-    price: "$56",
-    tags: "AU | Bottle",
+    title: "Chicken Tikka",
+    price: "£4.99",
+    tags: "Chicken | Spicy",
   },
   {
-    title: "Catena Malbee",
-    price: "$59",
-    tags: "AU | Bottle",
+    title: "Seekh Kebab",
+    price: "£1.99",
+    tags: "Chicken ",
   },
   {
-    title: "La Vieillw Rose",
-    price: "$44",
-    tags: "FR | 750 ml",
+    title: "Kutlus",
+    price: "£3.99",
+    tags: "Chicken & Vegetables",
   },
   {
-    title: "Rhino Pale Ale",
-    price: "$31",
-    tags: "CA | 750 ml",
+    title: "Tandoori Chicken Wings",
+    price: "£3.99",
+    tags: "Chicken | Roast",
   },
   {
-    title: "Irish Guinness",
-    price: "$26",
-    tags: "IE | 750 ml",
+    title: "Steam Chicken Roast",
+    price: "£9.99",
+    tags: "Chicken | Roast",
+  },
+  {
+    title: "Tandoori Chicken Roast",
+    price: "£11.99",
+    tags: "Chicken | Roast",
   },
 ];
 
 const main = [
   {
-    title: "Aperol Sprtiz",
-    price: "$20",
-    tags: "Aperol | Villa Marchesi prosecco | soda | 30 ml",
+    title: "Zahra's Tikka Biryani",
+    price: "£8.99",
+    tags: "Chicken | Special",
   },
   {
-    title: "Dark 'N' Stormy",
-    price: "$16",
-    tags: "Dark rum | Ginger beer | Slice of lime",
+    title: "Charsi Chicken Karahi",
+    price: "£10",
+    tags: "Chicken | Karahi | Special",
   },
   {
-    title: "Daiquiri",
-    price: "$10",
-    tags: "Rum | Citrus juice | Sugar",
+    title: "Chicken Yakhni Pilau",
+    price: "£7.99",
+    tags: "Chicken | Rice | Special",
   },
   {
-    title: "Old Fashioned",
-    price: "$31",
-    tags: "Bourbon | Brown sugar | Angostura Bitters",
+    title: "Sarso Saag",
+    price: "£6.99",
+    tags: "Leafy greens | Vegetables",
   },
   {
-    title: "Negroni",
-    price: "$26",
-    tags: "Gin | Sweet Vermouth | Campari | Orange garnish",
+    title: "Traditional Chicken Karahi",
+    price: "£7.99",
+    tags: "Chicken | traditional | Karahi",
   },
 ];
 

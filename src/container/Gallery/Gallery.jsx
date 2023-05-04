@@ -8,6 +8,8 @@ import { SubHeading } from "../../components";
 import { images } from "../../constants";
 import "./Gallery.css";
 const galleryImages = [
+  images.menu1,
+  images.menu2,
   images.biryani,
   images.charsi,
   images.gajreela,
@@ -36,7 +38,7 @@ const Gallery = () => {
   return (
     <div className="app__gallery flex__center">
       <div className="app__gallery-content">
-        <SubHeading title="Instagram" />
+        <SubHeading title="Photo" />
         <h1 className="headtext__cormorant">Photo Gallery</h1>
         <p className="p__opensans" style={{ color: "#AAA", marginTop: "2rem" }}>
           Take a glimpse into the world of Zahra's with our mouth-watering photo
@@ -44,9 +46,11 @@ const Gallery = () => {
           colorful and enticing images of our cuisine transport you to India and
           Pakistan.
         </p>
-        <button type="button" className="custom__button">
-          View More
-        </button>
+        <form action="https://goo.gl/maps/aZmVaTi69ASF6GsYA">
+          <button className="custom__button" type="submit" formtarget="_blank">
+            View More
+          </button>
+        </form>
       </div>
 
       <div className="app__gallery-images">

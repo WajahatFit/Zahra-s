@@ -22,15 +22,15 @@ const Navbar = () => {
           <a href="#menu">menu</a>
         </li>
         <li className="p__opensans">
-          <a href="#contact">contact</a>
+          <a href="#location">Location</a>
         </li>
       </ul>
       <div className="app__navbar-login">
         <a href="#login" className="p__opensans">
-          Log In / Register
+          Welcome
         </a>
         <div />
-        <a href="/" className="p__opensans">
+        <a href="#contact" className="p__opensans">
           Book Table
         </a>
       </div>

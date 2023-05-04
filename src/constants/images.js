@@ -17,6 +17,9 @@ import swaian from "../assets/sawian.jpeg";
 import knife from "../assets/knife.png";
 import logo from "../assets/logo.png";
 import menu from "../assets/menu.png";
+import menu1 from "../assets/1.png";
+import menu2 from "../assets/3.png";
+
 import overlaybg from "../assets/overlaybg.png";
 import spoon from "../assets/spoon.svg";
 import welcome from "../assets/welcome.png";
@@ -49,6 +52,8 @@ export default {
   knife,
   logo,
   menu,
+  menu1,
+  menu2,
   overlaybg,
   spoon,
   welcome,
